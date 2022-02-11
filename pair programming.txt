@@ -5,16 +5,7 @@ using namespace std;
  
 int main()
 {
-     
-#ifndef ONLINE_JUDGE
-        freopen("intant.txt","r",stdin);
-        freopen("outant.txt","w",stdout);
-        
-    #endif
-        
-     int t;
-     cin>>t;
-     while(t--)
+  
      {
           int k,m,n,cnt=0,x=0,i,pr,ni,out=0,mi,sr;
           cin>>k>>m>>n;
