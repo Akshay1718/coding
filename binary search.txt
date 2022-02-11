@@ -13,7 +13,7 @@
         }
         a[i] = {mn, k};
     }
-    sort(all(a));
+    
     int ans = 0, s = 0;
     for (int i = 0; i < n; i++) {
         if (ans + s <= a[i].x) {
