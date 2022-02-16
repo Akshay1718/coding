@@ -1,17 +1,5 @@
 
-
  
- 
-int main()
-{
-
-     
-    
-            
-   long long int t,k,r;
-   cin>>t;
-   while(t--)
-   { 
      
       int n,i,j,sum=0;
       cin>>n;
