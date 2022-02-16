@@ -6,11 +6,6 @@ int main()
 {
 
      
-#ifndef ONLINE_JUDGE
-        freopen("intant.txt","r",stdin);
-        freopen("outant.txt","w",stdout);
-        
-    #endif
     
             
    long long int t,k,r;
